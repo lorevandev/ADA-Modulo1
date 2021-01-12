@@ -1,7 +1,7 @@
 # ADA-Modulo1-HTML
 Este repositorio contiene los ejercicios de HTML realizados en el curso de ADA.
 
-En estos ejercicios contienen los siguientes elementos:
+Los elementos que contienen son los siguientes:
 
 - Tags 
 - Párrafos
