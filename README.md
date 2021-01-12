@@ -9,5 +9,6 @@ Los elementos que contienen son los siguientes:
 - Subsections
 - Listas ordenadas y desordenadas
 - Comentarios
-- Link entre páginas
-- Imágenes
+- Link entre páginas  
+- Link a páginas externas / Email / Redes Sociales
+- Imágenes (absolutas y relativas)
